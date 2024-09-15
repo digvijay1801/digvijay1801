@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Digvijay Raut</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Backend development**
+- 🌱 I’m currently improving **Backend Skills**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Full-stack Development**
 
 - 📫 How to reach me **digvijayraut2002@gmail.com**
 
