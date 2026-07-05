@@ -12,10 +12,9 @@ Passionate about building scalable Full Stack Web Applications using Java, Sprin
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Advanced Spring Boot & AI Integration**
 - 💼 Interested in **Java Full Stack Development**
 - 🤖 Exploring **Generative AI with OpenAI APIs**
-- 💬 Ask me about **Java, Spring Boot, React, MySQL, Hibernate**
+- 💬 Ask me about  **Java Full Stack Development**
 - 📫 Reach me at **digvijayraut2002@gmail.com**
 
 ---
@@ -27,10 +26,6 @@ Passionate about building scalable Full Stack Web Applications using Java, Sprin
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
 </a>
 
-<a href="https://instagram.com/digvijay_raut_" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/>
-</a>
-</p>
 
 ---
 
@@ -100,7 +95,7 @@ Passionate about building scalable Full Stack Web Applications using Java, Sprin
 
 ## 🚀 Tech Stack
 
-💻 Java • Spring Boot • Hibernate • REST API
+💻 Java • Spring Boot • Hibernate • REST API • JPA
 
 🎨 React.js • HTML • CSS • JavaScript • Bootstrap
 
